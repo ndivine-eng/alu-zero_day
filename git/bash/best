@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "Best"
-cd ..
-cd school
-clear
-C clear
