@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "Best"
-cd ..
-cd school
-clear
-C clear
+echo "This School is so cool!"
